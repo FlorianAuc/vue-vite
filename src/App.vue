@@ -8,7 +8,6 @@ import { RouterLink, RouterView } from 'vue-router'
     
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
 
       <nav class="test">
         <RouterLink to="/">Home</RouterLink>
